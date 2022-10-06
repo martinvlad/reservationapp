@@ -18,7 +18,7 @@ function Featured() {
             </div>
         </div>
         <div className="featuredItem">
-            <img src="https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/321711666.jpg?k=8a5ce7358a0aacf2466b5b4ddfb4f7c476cffefcb5e1f2d26206cc921f78ef01&o=&hp=1" alt="" className='featuredImage' />
+            <img src="https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/302715553.jpg?k=045a4c479caef6c88e17c6f714224c8836010a9c94606d88f4c61e6cfdd5a840&o=&hp=1" alt="" className='featuredImage' />
             <div className="featuredTitles">
                 <h1>Dublin</h1>
                 <h2>123 properties</h2>
