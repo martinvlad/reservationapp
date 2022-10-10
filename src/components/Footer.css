@@ -1,0 +1,35 @@
+.listItem{
+    list-style: none;
+    font-weight: 700;
+}
+
+.footer{
+    width: 100%;
+    width: 1024px;
+    font-size: 12px;
+    
+}
+
+.fLists{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.fList{
+    padding: 0;
+}
+
+.listItem{
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #003580
+
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

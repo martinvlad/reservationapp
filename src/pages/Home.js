@@ -5,6 +5,8 @@ import Header from "../components/Header";
 import Featured from "../components/Featured";
 import PropertyList from "../components/PropertyList";
 import GuestProperties from "../components/GuestProperties";
+import MailList from "../components/MailList";
+import Footer from "../components/Footer";
 export default function Home() {
   return (
     <div>
@@ -16,6 +18,8 @@ export default function Home() {
         <PropertyList />
         <h1 className="homeTitle">Homes guests love</h1>
         <GuestProperties />
+        <MailList />
+        <Footer />
       </div>
     </div>
   );
